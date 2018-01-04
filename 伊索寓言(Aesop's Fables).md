@@ -35,3 +35,18 @@ Boasters brag most when they cannot be detected.
 - [cemetery](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/cemetery) 墓地
 - [monument](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/monument#translations)纪念碑；纪念塔；纪念馆; 历史遗迹，名胜古迹;
 
+## 32. THE ASS AND THE LAPDOG
+
+There was once a man who had an ass and a lapdog. The ass was housed in the stable with plenty of oats and hay to eat and was as well
+off as an ass could be. The little dog was made a great pet of by his master, who fondled him and often let him lie in his lap. And if
+he went out to dinner, he would bring back a tidbit or two to give him when he ran to meet him on his return. The ass had, it is true,
+a good deal of work to do, carting or grinding the corn, or carrying the burdens of the farm; and ere long he became very jealous, 
+contrasting his own life of labor with the ease and idleness of the lapdog. At last one day he broke his halter, and frisking into the
+house just as his master sat down to dinner, he pranced and capered about, mimicking the frolics of the little favorite, upsetting the
+table and smashing the crockery with his clumsy efforts. Not content with that, he even tried to jump on his master's lap, as he had so
+often seen the dog allowed to do. At that the servants, seeing the danger their master was in, belabored the silly ass with sticks and 
+cudgels, and drove him back to his stable half dead with his beating. "Alas!" he cried. "All this I have brought on myself. Why could I 
+not be satisfied with my natural and honorable position, without wishing to imitate the ridiculous antics of that useless little lapdog
+?"
+
+## 32. 
