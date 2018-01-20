@@ -53,3 +53,24 @@ not be satisfied with my natural and honorable position, without wishing to imit
 
 曾经一个主人拥有一头驴和一条哈巴狗. 这头驴住在驴棚, 有大量的燕麦和干草吃, 作为一头驴已经很幸运了. 那条哈巴狗成为主人最爱的宠物, 主人抚摸它, 并常常
 让它躺在他的大腿上. 如果主人外出吃饭, 会带回来一些美食, 当哈巴狗在他返回时跑过来欢迎他时给它. 当然, 这头驴有大量的工作要做, 拉车或研磨玉米, 或做农场的苦力活. 不久, 这头驴他的苦力生活和那头哈巴狗的轻松和无所事事对比, 变得十分嫉妒. 最后, 这头驴有一天挣脱了它的缰绳, 在它主人坐下来吃饭完的时候活蹦乱跳的跑进来, 它欢蹦雀乱跳, 模仿那条哈巴狗的嬉戏行为, 它那笨拙努力打翻了桌子和撞碎餐具. 那头驴并没有满足于此, 他甚至试图跳到主人的大腿上, 因为它经常看到那条哈巴狗可以这么做. 在那是, 仆人们看到主人有危险, 用棍棒毒打了这头蠢驴, 赶它回到它的驴棚, 这时这头驴已经被打得半死不活的.  "哎!", 它大哭道, "这一切都是我自己造成的. 为什么我不能满足于我自然和可敬的职位, 不去想模仿那条无用小狗的荒唐的行为?"
+
+## 33. THE FIR TREE AND THE BRAMBLE
+A fir tree was boasting to a bramble, and said, somewhat contemptuously, "You poor creature, you are of no use whatever. Now, look at 
+me. I am useful for all sorts of things, particularly when men build houses; they can't do without me then." But the bramble replied, 
+"Ah, that's all very well, but you wait till they come with axes and saws to cut you down, and then you'll wish you were a bramble and 
+not a fir."
+Better poverty without a care than wealth with its many obligations.
+
+## 33. 冷杉与黑莓树
+一颗冷杉树正向一颗黑莓树吹嘘, 口气有几分轻蔑, 说道:"你是个可怜的生物, 无论如何都没有用处. 现在, 看看我, 我对所有的东西都有用, 特别在人们要建设房子
+的时候. 他们没我建不了". 但黑莓树回应说:"啊, 非常好, 但你等到他们带着斧子和锯子来把你砍倒时, 那时候你就希望你是一颗黑莓树而不是一颗冷杉."
+没有忧虑的贫穷比有许多义务的富有要好.
+
+- fir 冷杉树
+- bramble 黑莓灌木
+- contemptuously 轻蔑地
+- contempt 轻蔑
+- axe 斧子
+- saw 锯子, 用锯子割开
+- poverty 贫穷
+- obligation 义务
