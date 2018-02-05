@@ -74,3 +74,14 @@ Better poverty without a care than wealth with its many obligations.
 - saw 锯子, 用锯子割开
 - poverty 贫穷
 - obligation 义务
+
+## 39. THE FLEA AND THE MAN
+
+A flea bit a man, and bit him again, and again, till he could stand it no longer, but made a thorough search for it, and at last 
+succeeded in catching it. Holding it between his finger and thumb, he said--or rather shouted, so angry was he--"Who are you, pray, 
+you wretched little creature, that you make so free with my person?" The flea, terrified, whimpered in a weak little voice, "Oh, sir! 
+Pray let me go. Don't kill me! I am such a little thing that I can't do you much harm." But the man laughed and said, "I am going to 
+kill you now, at once. Whatever is bad has got to be destroyed, no matter how slight the harm it does."
+
+Do not waste you pity on a scamp.
+
