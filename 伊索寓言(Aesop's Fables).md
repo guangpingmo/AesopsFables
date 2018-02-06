@@ -91,5 +91,9 @@ Do not waste you pity on a scamp.
 
 不要浪费你的怜悯在小流氓上.
 
-
-
+## 41. THE OAK AND THE REEDS
+An oak that grew on the bank of a river was uprooted by a severe gale of wind, and thrown across the stream. It fell among some reeds 
+growing by the water, and said to them, "How is it that you, who are so frail and slender, have managed to weather the storm, whereas 
+I, with all my strength, have been torn up by the roots and hurled into the river?" "You were stubborn," came the replay, "and fought 
+against the storm, which proved stronger than you. But we bow and yield to every breeze, and thus the gale passed harmlessly over our 
+heads."
