@@ -91,9 +91,35 @@ Do not waste you pity on a scamp.
 
 不要浪费你的怜悯在小流氓上.
 
+- flea 跳蚤
+- thorough 彻底的, 全面的
+- thumb 拇指
+- pray 祈求, 请, 请问
+- terrify 吓坏
+- whimper 抽泣, 哀诉
+- scamp 淘气鬼, 小混蛋
+
 ## 41. THE OAK AND THE REEDS
 An oak that grew on the bank of a river was uprooted by a severe gale of wind, and thrown across the stream. It fell among some reeds 
 growing by the water, and said to them, "How is it that you, who are so frail and slender, have managed to weather the storm, whereas 
 I, with all my strength, have been torn up by the roots and hurled into the river?" "You were stubborn," came the replay, "and fought 
 against the storm, which proved stronger than you. But we bow and yield to every breeze, and thus the gale passed harmlessly over our 
 heads."
+
+## 41. 橡树和芦苇
+长在河边的橡树被一阵大风连根拔起, 抛到河那边. 它落在长在水边的芦苇中, 对那些芦苇说:"你们如此脆弱和苗条, 是如何经受住这阵大风. 而我用尽我所有的力量, 还是被连根拔起抛到河这里". 芦苇回复道:"你太固执了, 与已经证明比你强大的大风搏斗. 而我们弯腰顺从每一缕风, 因此大风无害地经过我们的头上.".
+
+- oak 栎(lì)树, 橡树
+- reed 芦苇, 簧片
+- uproot 根除, 连根拔起
+- severe 严重的, 严厉, 朴素
+- gale 大风, 一阵(风, 大笑声)
+- frail 虚弱的, 易碎的
+- slender 苗条的,  微弱的
+- weather 天气, 挨过, 经受住
+- tear(**tore**, **torn**) 眼泪, 哭泣  撕坏, 破洞, 拔掉
+- hurl 猛投,  气势汹汹地吐（恶言)
+- stubborn  顽固的
+- bow 低头, 弓
+- yield 屈服;让出;产出
+- breeze 微风; 漫步走入
