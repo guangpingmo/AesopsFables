@@ -123,3 +123,14 @@ heads."
 - bow 低头, 弓
 - yield 屈服;让出;产出
 - breeze 微风; 漫步走入
+
+## 45. THE ASS AND HIS BURDENS
+A peddler who owned an ass one day bought a quantity of salt and loaded up his beast with as much as he could bear. On the way home the
+ass stumbled as he was crossing a stream and fell into the water. The salt got thoroughly wetted and much of it melted and drained away, 
+so that, when he got on his legs agian, the ass found his load had become much less heavy. His master, however, drove him back to town 
+bought more salt, which he added to what remained in the panniers, and started out again. No sooner had they reached a stream than the 
+ass lay down in it, and rose, as before, with a much lighter load. But his master detected the trick and, turning back once more, bought 
+a large number of sponges, and piled them on the back of the ass. When they came to the stream the ass again lay down. But this time, as 
+the sponges soaked up large quantities of water, he found, when he got up on his legs that he had a bigger burden to carry than ever.
+
+You may play a good card once too often.
