@@ -154,4 +154,19 @@ You may play a good card once too often.
  这头溪水时, 这头驴再次倒下来. 当这次因为这些海绵都被泡了大量的水, 这头驴发现当他站起来的时候,  它有比之前更重的担子要挑.
  大多数情况下, 你只能玩一次好牌.
  
+ ## 47. THE FOX AND THE GOAT
+ A fox fell into a well and was unable to get out again. By and by a thirsty goat came by, and seeing the fox in the well asked him if 
+ the water was good. "Good?" said the fox. "It's the best water I ever tasted in all my life. Come down and try it yourself." The goat 
+ thought of nothing but the prospect of quenching his thirst, and jumped in at once. When he had had enough to drink, he looked about, 
+ like the fox, for some way of getting out, but could find none.
+ 
+ Presently the fox said, "I have an idea. You stand on your hind legs and plant your forelegs firmly against the side of the well, and 
+ then I'll climb onto your back, and, from there, by stepping on your horns, I can get out. And when I'm out, I'll help you out too." 
+ The goat did as he was requested, and the fox climbed onto his back and so out of the well. And then he coolly walked away. The goat 
+ called loudly after him and reminded him of his promise to help him out. But the fox merely turned and said, "If you had as much sense 
+ in your head as you have hair in your beard you wouldn't have got into the well without making certain that you could get out again."
+ 
+ Look before you leap.
+  
+  - thirsty 干渴的; thirsty for(渴望的)
  
