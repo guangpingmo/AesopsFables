@@ -134,3 +134,24 @@ a large number of sponges, and piled them on the back of the ass. When they came
 the sponges soaked up large quantities of water, he found, when he got up on his legs that he had a bigger burden to carry than ever.
 
 You may play a good card once too often.
+
+ - peddler 流动小贩; (思想的)宣扬者
+ - quantity 数量; 大批
+ - salt 盐
+ - stumble 踉跄; 结巴
+ - wet 湿的;弄湿
+ - melt 融化; (情绪等)消失
+ - drain (使)排出; (使)流干
+ - pannier 挂包; 驮篮
+ - sponge 海绵
+ - soak 浸泡; 使湿透
+ - burden 负担;使烦恼
+ 
+ ## 45. 驴子和它的担子
+ 一个小贩有一头驴, 一天买了一批盐, 尽量给这头驴担子装上. 在回家的路上, 这头驴踉踉跄跄, 它经过一条溪水时掉进水里. 这些盐全湿了, 大部分盐融化并被排走 
+ 了, 当它站起来的时候, 这头驴发现它的担子变很轻了. 然而它的主人把他赶回镇子买更多的盐, 这些盐和残留的盐都放在它的驮篮里, 再次出发. 很快, 他们到了一 
+ 条溪, 那时它如同之前一样倒下来再站起来, 驮篮变轻了. 但他的主人觉察到它的花招, 再出返回, 买了大量的海绵, 在驴子后面的驮篮里面堆起来. 当他们来到 
+ 这头溪水时, 这头驴再次倒下来. 当这次因为这些海绵都被泡了大量的水, 这头驴发现当他站起来的时候,  它有比之前更重的担子要挑.
+ 大多数情况下, 你只能玩一次好牌.
+ 
+ 
